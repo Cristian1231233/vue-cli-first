@@ -1,6 +1,6 @@
 <template>
   <header>
-     <h1>Vue cli</h1>
+     <h1 class="head">Vue cli</h1>
   </header>
    
       
@@ -16,5 +16,9 @@ export default {
 </script>
 
 <style>
+
+h1.head{
+  color: mediumseagreen;
+}
 
 </style>
